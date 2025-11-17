@@ -124,15 +124,25 @@ This repository currently contains:
   HTML code (e.g. documentation, visualisation or simple UI demo for the project).
 
 - `EasycodeV4.0.2_Setup.exe`  
-  Installer for the **EasyCode** IDE used to program the STEMVN / Arduino board.
-
-> You can add your firmware source code here later (e.g. `src/seed_robot.ino`) and any wiring diagrams or photos under a folder like `docs/` or `images/`.
+  Installer for the **EasyCode** IDE used to program the STEMVN / Arduino board.  
+  Because this file is large, it is **hosted on Google Drive instead of inside the repository**.  
+  See the download link in the section below.
 
 ---
 
-## 6. Getting Started
+## 6. Software Download
 
-### 6.1. Prerequisites
+The EasyCode IDE installer required to program the STEMVN / Arduino board can be downloaded from Google Drive:
+
+- **EasycodeV4.0.2_Setup.exe**: `[Click here](https://drive.google.com/drive/u/0/folders/1ufYK7DLcyUFjd8wbWLYIC1pgFNweaL9D)`
+
+You can also add any future tools or drivers here as separate bullet points.
+
+---
+
+## 7. Getting Started
+
+### 7.1. Prerequisites
 
 **Hardware**
 
@@ -149,17 +159,18 @@ This repository currently contains:
 
 - Windows PC (or other OS supported by EasyCode)  
 - Web browser (Chrome/Edge/Firefox)  
-- [`EasycodeV4.0.2_Setup.exe`](./EasycodeV4.0.2_Setup.exe) – IDE / uploader  
+- EasyCode IDE (download from your Google Drive link above)  
 - (Optional) Arduino IDE if you prefer
 
-### 6.2. Install EasyCode
+### 7.2. Install EasyCode
 
-1. Double-click `EasycodeV4.0.2_Setup.exe`.
-2. Follow the installer steps to complete installation.
-3. Connect the STEMVN / Arduino board to your PC via USB.
-4. Ensure the correct drivers are installed (Arduino Uno driver, if needed).
+1. Open the Google Drive link in the **Software Download** section.  
+2. Download `EasycodeV4.0.2_Setup.exe` to your computer.  
+3. Double-click the installer and follow the steps to complete installation.  
+4. Connect the STEMVN / Arduino board to your PC via USB.  
+5. Ensure the correct drivers are installed (Arduino Uno driver, if needed).
 
-### 6.3. Upload the Firmware
+### 7.3. Upload the Firmware
 
 > If you already have the firmware project file (.ino or EasyCode project), place it in this repository (for example under `src/`).
 
@@ -170,7 +181,7 @@ This repository currently contains:
 5. Click **Upload** to flash the firmware to the board.  
 6. Wait until the upload is complete and EasyCode reports success.
 
-### 6.4. HTML File (`Gieo lac 2 lo.html`)
+### 7.4. HTML File (`Gieo lac 2 lo.html`)
 
 Depending on how you designed it, this HTML file can be used as:
 
@@ -185,7 +196,7 @@ To view it:
 
 ---
 
-## 7. How to Use the Robot
+## 8. How to Use the Robot
 
 1. **Prepare the seed hopper**
    - Fill the hopper with peanut seeds.
@@ -213,7 +224,7 @@ To view it:
 
 ---
 
-## 8. System Architecture
+## 9. System Architecture
 
 The system is logically divided into three subsystems:
 
@@ -241,7 +252,7 @@ Data flow:
 
 ---
 
-## 9. Educational & Practical Applications
+## 10. Educational & Practical Applications
 
 - **For farmers**
   - Reduces manual labour in sowing  
@@ -257,7 +268,7 @@ Data flow:
 
 ---
 
-## 10. Future Work & AI Integration
+## 11. Future Work & AI Integration
 
 Planned and possible improvements:
 
@@ -272,3 +283,5 @@ Planned and possible improvements:
 - **Mobile / web control**
   - Add Bluetooth / Wi-Fi module and develop a smartphone app for control and monitoring.
 
+You may choose an open-source license that fits your goals (for example, MIT License or Creative Commons for educational use).  
+Update this section when you decide on a specific license.
