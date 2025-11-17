@@ -282,6 +282,3 @@ Planned and possible improvements:
   - Add small solar panels to recharge batteries in the field.
 - **Mobile / web control**
   - Add Bluetooth / Wi-Fi module and develop a smartphone app for control and monitoring.
-
-You may choose an open-source license that fits your goals (for example, MIT License or Creative Commons for educational use).  
-Update this section when you decide on a specific license.
