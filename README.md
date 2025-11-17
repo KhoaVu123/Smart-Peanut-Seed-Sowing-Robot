@@ -134,7 +134,7 @@ This repository currently contains:
 
 The EasyCode IDE installer required to program the STEMVN / Arduino board can be downloaded from Google Drive:
 
-- **EasycodeV4.0.2_Setup.exe**: `[Click here](https://drive.google.com/drive/u/0/folders/1ufYK7DLcyUFjd8wbWLYIC1pgFNweaL9D)`
+- **EasycodeV4.0.2_Setup.exe**: [Click here](https://drive.google.com/drive/u/0/folders/1ufYK7DLcyUFjd8wbWLYIC1pgFNweaL9D)
 
 You can also add any future tools or drivers here as separate bullet points.
 
