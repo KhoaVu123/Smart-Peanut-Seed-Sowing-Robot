@@ -1,5 +1,3 @@
-# Smart-Peanut-Seed-Sowing-Robot
-
 # Smart Peanut Seed Sowing Robot (AI-Ready)
 
 A low-cost, STEM-friendly agricultural robot that can **sow peanut seeds at two positions simultaneously**, controlled by a **wireless PS2 gamepad** and built on an **Arduino/ STEMVN board** platform.  
